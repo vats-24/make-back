@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720799311870,
+      "tag": "0000_silly_xavin",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723400582350,
+      "tag": "0001_yellow_thena",
+      "breakpoints": false
+    }
+  ]
+}
