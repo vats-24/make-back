@@ -36,8 +36,8 @@ async function main() {
 	);
 
 	app.listen({
-		port: env.PORT,
-		host: env.HOST,
+		port: env.PORT || 3000,
+		host: env.HOST || "0.0.0.0",
 	});
 
 	await migrate(db, {
